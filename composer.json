@@ -1,0 +1,15 @@
+{
+    "name": "castamir/tester-example",
+    "description": "Tester error example",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miroslav Paulik",
+            "email": "miras.paulik@seznam.cz"
+        }
+    ],
+    "require-dev": {
+        "nette/tester": "~1.0"
+    }
+}
